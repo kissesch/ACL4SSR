@@ -695,3 +695,8 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+# jmcomic
+DOMAIN-SUFFIX,18comic-eldenring.art
+DOMAIN-SUFFIX,18comic-ff7rebirth.quest
+DOMAIN-SUFFIX,18comic-ff7rebirth.club
