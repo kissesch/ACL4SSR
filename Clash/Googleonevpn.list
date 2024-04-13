@@ -1,0 +1,5 @@
+# 内容：Google_one_vpn
+# 数量：9条
+USER-AGENT,Google*
+DOMAIN-SUFFIX,cloud.cupronickel.goog
+DOMAIN-SUFFIX,googleapis.com
