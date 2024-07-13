@@ -1,0 +1,14 @@
+# 代理列表
+# 不支持日韩节点
+
+# jmcomic国际站
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,18comic.org
+
+# 小红帽
+DOMAIN-SUFFIX,mei9.app
+DOMAIN-SUFFIX,xh5.club
+
+# 蛙漫
+DOMAIN-SUFFIX,manwa.fun
+DOMAIN-SUFFIX,manwa.me
