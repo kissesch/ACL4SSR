@@ -15,10 +15,12 @@ DOMAIN-SUFFIX,manwa.me
 
 #大圈
 DOMAIN-SUFFIX,daquan361.com
-DOMAIN-SUFFIX,bq6kgykh.newdq13.cc
-DOMAIN-SUFFIX,5nlc7prc.newdq13.cc
+;DOMAIN-SUFFIX,bq6kgykh.newdq13.cc
+;DOMAIN-SUFFIX,5nlc7prc.newdq13.cc
 DOMAIN-SUFFIX,pic.daquan361.top
-DOMAIN-SUFFIX,vs3oljsr.newdq12.cc
+;DOMAIN-SUFFIX,vs3oljsr.newdq12.cc
+DOMAIN-SUFFIX,*.newdq13.cc
+DOMAIN-SUFFIX,*.newdq12.cc
 
 #xhg
 DOMAIN-SUFFIX,xhgap.tea624.com
