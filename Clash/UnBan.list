@@ -41,3 +41,6 @@ DOMAIN,rewards.hypixel.net
 # Koodo Mobile
 DOMAIN-SUFFIX,koodomobile.com
 DOMAIN-SUFFIX,koodomobile.ca
+
+# kiwi浏览器bing搜索
+DOMAIN-SUFFIX,kiwisearchservices.com
