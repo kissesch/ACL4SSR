@@ -294,6 +294,10 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
+DOMAIN-SUFFIX,i.mi.com
+DOMAIN-SUFFIX,api.ai.xiaomi.com
+DOMAIN-SUFFIX,api.open.ai.xiaomi.com
+DOMAIN-SUFFIX,cdn.cnbj1.fds.api.mi-img.com
 
 # NetEase
 DOMAIN-SUFFIX,126.com
@@ -695,3 +699,8 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+# jmcomic
+DOMAIN-SUFFIX,18comic-eldenring.art
+DOMAIN-SUFFIX,18comic-ff7rebirth.quest
+DOMAIN-SUFFIX,18comic-ff7rebirth.club
