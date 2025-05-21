@@ -707,4 +707,5 @@ DOMAIN-SUFFIX,18comic-ff7rebirth.club
 
 
 # 远景论坛
-DOMAIN-SUFFIX,pcbeta.com
+DOMAIN-KEYWORD,pcbeta
+DOMAIN-SUFFIX,*.pcbeta.com
