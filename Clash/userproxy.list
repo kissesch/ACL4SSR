@@ -26,17 +26,11 @@ DOMAIN-SUFFIX,newdq12.cc
 DOMAIN-SUFFIX,xhgap.tea624.com
 
 #肉
+DOMAIN-KEYWORD,rouman
+DOMAIN-KEYWORD,roum
 DOMAIN-SUFFIX,rou.video
-DOMAIN-SUFFIX,rouman5.com
-DOMAIN-SUFFIX,roum10.xyz
-DOMAIN-SUFFIX,roum11.xyz
-DOMAIN-SUFFIX,roum12.xyz
-DOMAIN-SUFFIX,roum13.xyz
-DOMAIN-SUFFIX,roum14.xyz
-DOMAIN-SUFFIX,roum15.xyz
-DOMAIN-SUFFIX,roum16.xyz
-DOMAIN-SUFFIX,roum17.xyz
-DOMAIN-SUFFIX,roum18.xyz
+DOMAIN-SUFFIX,rouman*.com
+DOMAIN-SUFFIX,roum*.xyz
 DOMAIN-SUFFIX,r5.rmcdn1.xyz
 
 #xhs
