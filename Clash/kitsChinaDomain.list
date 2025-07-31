@@ -1,0 +1,16 @@
+# 直连列表
+
+# MI
+PROCESS-NAME,Mi Smart Mouse.exe
+DOMAIN-SUFFIX,i.mi.com
+DOMAIN-SUFFIX,ai.xiaomi.com
+DOMAIN-SUFFIX,api.mi-img.com
+
+# jmcomic
+DOMAIN-SUFFIX,18comic-eldenring.art
+DOMAIN-SUFFIX,18comic-ff7rebirth.quest
+DOMAIN-SUFFIX,18comic-ff7rebirth.club
+
+# 远景论坛
+DOMAIN-KEYWORD,pcbeta
+DOMAIN-SUFFIX,*.pcbeta.com
