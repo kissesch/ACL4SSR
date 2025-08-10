@@ -42,3 +42,6 @@ DOMAIN-SUFFIX,xchina.click
 DOMAIN-SUFFIX,visit.xchina.biz
 DOMAIN-SUFFIX,img.xchina.store
 DOMAIN-SUFFIX,xchina.*
+
+#Tencent edgeone
+DOMAIN-SUFFIX,lfernseher.edgeone.app
