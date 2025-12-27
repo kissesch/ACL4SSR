@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,*.pcbeta.com
 DOMAIN-SUFFIX,geminibalance.kitschen.dpdns.org
 DOMAIN-SUFFIX,olist.kitschen.dpdns.org
 DOMAIN-SUFFIX,openlist.kitschen.dpdns.org
+
+# icmp9 vps
+DOMAIN-SUFFIX,icmp9.com
