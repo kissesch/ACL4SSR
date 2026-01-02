@@ -45,3 +45,6 @@ DOMAIN-SUFFIX,xchina.*
 
 #Tencent edgeone
 DOMAIN-SUFFIX,lfernseher.edgeone.app
+
+# icmp9 vps
+DOMAIN-SUFFIX,icmp9.com
