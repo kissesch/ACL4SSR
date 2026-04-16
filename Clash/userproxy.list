@@ -48,3 +48,6 @@ DOMAIN-SUFFIX,lfernseher.edgeone.app
 
 # icmp9 vps
 DOMAIN-SUFFIX,icmp9.com
+
+# personal domain
+DOMAIN-SUFFIX,webssh.9698931.xyz
