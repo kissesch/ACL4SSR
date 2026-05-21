@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,*.pcbeta.com
 DOMAIN-SUFFIX,appinn.net
 
 # Linux do
-DOMAIN-SUFFIX,*.linux.do
+;DOMAIN-SUFFIX,*.linux.do
+;DOMAIN-SUFFIX,invite.linuxdo.do
 DOMAIN-SUFFIX,*.linuxdo.org
-DOMAIN-SUFFIX,invite.linuxdo.do
 DOMAIN-SUFFIX,invite.linuxdo.org
