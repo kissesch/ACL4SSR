@@ -23,3 +23,6 @@ DOMAIN-SUFFIX,appinn.net
 ;DOMAIN-SUFFIX,invite.linuxdo.do
 DOMAIN-SUFFIX,*.linuxdo.org
 DOMAIN-SUFFIX,invite.linuxdo.org
+
+# mydomains
+DOMAIN-SUFFIX,*.kfsehen.de5.net
