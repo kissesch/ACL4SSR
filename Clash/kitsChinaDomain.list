@@ -29,3 +29,7 @@ DOMAIN-SUFFIX,invite.linuxdo.org
 
 # video
 DOMAIN-SUFFIX,ukzy.ukubf8.com
+
+# Blip
+DOMAIN-SUFFIX,blip.net
+DOMAIN-SUFFIX,*.blip.net
