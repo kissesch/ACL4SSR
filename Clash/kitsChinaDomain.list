@@ -39,3 +39,6 @@ DOMAIN-SUFFIX,cloudflare-cn.com
 
 # gh直连
 DOMAIN-SUFFIX,gh-proxy.org
+
+# myself domain
+DOMAIN-SUFFIX,*.creepen.de5.net
