@@ -33,3 +33,6 @@ DOMAIN-SUFFIX,ukzy.ukubf8.com
 # Blip
 DOMAIN-SUFFIX,blip.net
 DOMAIN-SUFFIX,*.blip.net
+
+# cloudflare直连
+DOMAIN-SUFFIX,cloudflare-cn.com
