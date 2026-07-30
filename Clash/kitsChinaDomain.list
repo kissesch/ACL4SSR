@@ -36,3 +36,6 @@ DOMAIN-SUFFIX,*.blip.net
 
 # cloudflare直连
 DOMAIN-SUFFIX,cloudflare-cn.com
+
+# gh直连
+DOMAIN-SUFFIX,gh-proxy.org
