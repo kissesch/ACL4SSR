@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,invite.linuxdo.org
 
 # mydomains
 DOMAIN-SUFFIX,*.creepen.de5.net
+DOMAIN-SUFFIX,creepen.de5.net
 DOMAIN-SUFFIX,*.north.9698931.xyz
 ;DOMAIN-SUFFIX,mfern.kfsehen.de5.net
 
