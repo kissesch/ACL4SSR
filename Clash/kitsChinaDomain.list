@@ -45,3 +45,7 @@ DOMAIN-SUFFIX,cloudflare-cn.com
 DOMAIN-SUFFIX,gh-proxy.org
 DOMAIN-SUFFIX,ghfast.top
 DOMAIN-SUFFIX,down.clashparty.org
+
+# Dictionariez
+DOMAIN-SUFFIX,pnl.dev
+DOMAIN-SUFFIX,*.pnl.dev
