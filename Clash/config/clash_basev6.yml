@@ -52,8 +52,8 @@ dns:
   
   # 4. 代理与默认回退 DNS（强制走加密代理隧道，彻底杜绝境外解析泄露）
   nameserver:
-    - https://8.8.8.8/dns-query#节点选择
-    - https://1.1.1.1/dns-query#节点选择
+    - https://8.8.8.8/dns-query
+    - https://1.1.1.1/dns-query
     - https://[2001:4860:4860::8888]/dns-query
 
   # 5. 真实 IP 过滤白名单（精简高效，仅放行底层系统服务）
