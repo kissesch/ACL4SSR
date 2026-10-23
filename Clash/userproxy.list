@@ -35,13 +35,13 @@ DOMAIN-SUFFIX,r5.rmcdn1.xyz
 
 #xhs
 DOMAIN-KEYWORD,xchina
-DOMAIN-SUFFIX,img.xchina.biz
-DOMAIN-SUFFIX,upload.xchina.biz
 DOMAIN-SUFFIX,xchina.biz
 DOMAIN-SUFFIX,xchina.click
-DOMAIN-SUFFIX,visit.xchina.biz
-DOMAIN-SUFFIX,img.xchina.store
+DOMAIN-SUFFIX,xchina.store
 DOMAIN-SUFFIX,xchina.*
+DOMAIN-SUFFIX,xchina.io
+DOMAIN-SUFFIX,xchina.co
+DOMAIN-SUFFIX,xchina001.online
 
 #Tencent edgeone
 DOMAIN-SUFFIX,lfernseher.edgeone.app
