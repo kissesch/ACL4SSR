@@ -1,7 +1,6 @@
 # 内容：NetEaseMusic 网易云音乐
-# 数量：39条
+# 数量：49条
 # 匹配MacOS网易云音乐进程
-PROCESS-NAME,NeteaseMusic
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,api.iplay.163.com
 DOMAIN-SUFFIX,hz.netease.com
@@ -9,6 +8,14 @@ DOMAIN-SUFFIX,mam.netease.com
 DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,music.163.com.163jiasu.com
 DOMAIN-SUFFIX,music.126.net
+DOMAIN-SUFFIX,music.126.com
+DOMAIN-SUFFIX,yun-app.net
+DOMAIN,iadmat.nosdn.127.net
+DOMAIN,netease.ugcvideoss.ourdvs.com
+DOMAIN-KEYWORD,netease
+PROCESS-NAME,NeteaseMusic
+PROCESS-NAME,cloudmusic.exe
+PROCESS-NAME,com.netease.cloudmusic
 IP-CIDR,39.105.63.80/32,no-resolve
 IP-CIDR,39.105.175.128/32,no-resolve
 IP-CIDR,45.254.48.1/32,no-resolve
@@ -40,3 +47,6 @@ IP-CIDR,193.112.159.225/32,no-resolve
 IP-CIDR,223.252.199.66/31,no-resolve
 IP-CIDR,223.252.199.66/32,no-resolve
 IP-CIDR,223.252.199.67/32,no-resolve
+IP-CIDR,115.236.112.0/20,no-resolve
+IP-CIDR,223.252.192.0/19,no-resolve
+IP-CIDR,59.111.128.0/17,no-resolve
