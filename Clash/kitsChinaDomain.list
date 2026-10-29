@@ -61,7 +61,8 @@ DOMAIN-SUFFIX,pnl.dev
 DOMAIN-SUFFIX,*.pnl.dev
 
 # UNM
-DOMAIN-SUFFIX,unmdl.kitschen.dpdns.org
-DOMAIN-SUFFIX,unmdlios.kitschen.dpdns.org
+DOMAIN,unmdl.kitschen.dpdns.org
+DOMAIN,unmdlios.kitschen.dpdns.org
+DOMAIN,pgadmin.creepen.de5.net
 
 # ollama
