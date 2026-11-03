@@ -1,5 +1,3 @@
-name: DNS覆写
-
 mixed-port: 7890
 allow-lan: true
 bind-address: "*"
@@ -48,8 +46,8 @@ dns:
 
   
   nameserver:
-    - https://8.8.8.8/dns-query
-    - https://1.1.1.1/dns-query
+    - https://dns.google/dns-query
+    - https://cloudflare-dns.com/dns-query
     - https://[2001:4860:4860::8888]/dns-query
 
   fake-ip-filter:
@@ -60,12 +58,14 @@ dns:
 
   nameserver-policy:
     "+.googleapis.cn,+.xn--ngstr-lra8j.com":
-      - https://8.8.8.8/dns-query
-      - https://1.1.1.1/dns-query
+      - https://dns.google/dns-query
+      - https://cloudflare-dns.com/dns-query
+      - https://[2400:3200::1]/dns-query
 
     "+.deepseek.com,+.deepseeksvc.com":
-      - https://8.8.8.8/dns-query#userproxy
-      - https://1.1.1.1/dns-query#userproxy
+      - https://dns.google/dns-query
+      - https://cloudflare-dns.com/dns-query
+      - https://[2400:3200::1]/dns-query
 
     "geosite:cn,private":
       - https://dns.alidns.com/dns-query
