@@ -70,11 +70,13 @@ dns:
     "+.googleapis.cn,+.xn--ngstr-lra8j.com":
       - https://8.8.8.8/dns-query
       - https://1.1.1.1/dns-query
+      - https://[2400:3200::1]/dns-query
 
     # 3. deepseek
     "+.deepseek.com,+.deepseeksvc.com":
       - https://8.8.8.8/dns-query#userproxy
       - https://1.1.1.1/dns-query#userproxy
+      - https://[2400:3200::1]/dns-query
 
     # 2. 其他国内域名正常走国内 DNS
     "geosite:cn,private":
