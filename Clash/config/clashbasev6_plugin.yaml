@@ -19,6 +19,7 @@ tun:
   auto-redirect: true
   auto-detect-interface: true
 
+
 dns:
   enable: true
   ipv6: true
@@ -43,12 +44,9 @@ dns:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
     - https://[2400:3200::1]/dns-query
-
   
   nameserver:
     - https://dns.google/dns-query
-    - https://cloudflare-dns.com/dns-query
-    - https://[2001:4860:4860::8888]/dns-query
 
   fake-ip-filter:
     - "geosite:private"
@@ -59,13 +57,9 @@ dns:
   nameserver-policy:
     "+.googleapis.cn,+.xn--ngstr-lra8j.com":
       - https://dns.google/dns-query
-      - https://cloudflare-dns.com/dns-query
-      - https://[2400:3200::1]/dns-query
 
     "+.deepseek.com,+.deepseeksvc.com":
       - https://dns.google/dns-query
-      - https://cloudflare-dns.com/dns-query
-      - https://[2400:3200::1]/dns-query
 
     "geosite:cn,private":
       - https://dns.alidns.com/dns-query
