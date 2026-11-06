@@ -42,14 +42,11 @@ dns:
   proxy-server-nameserver:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
-    - https://[2400:3200::1]/dns-query
 
   # 3. 直连域名解析 DNS（命中 DIRECT 规则时由它负责解析国内真实 CDN IP）
   direct-nameserver:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
-    - https://[2400:3200::1]/dns-query
-
   
   # 4. 代理与默认回退 DNS（强制走加密代理隧道，彻底杜绝境外解析泄露）
   nameserver:
@@ -82,7 +79,6 @@ dns:
     "geosite:cn,private":
       - https://dns.alidns.com/dns-query
       - https://doh.pub/dns-query
-      - https://[2400:3200::1]/dns-query
 
 
 # 必须保留 proxies, proxy-groups, rules 占位符，Subconverter 会自动填充它们
