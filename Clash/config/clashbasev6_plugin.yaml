@@ -38,12 +38,10 @@ dns:
   proxy-server-nameserver:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
-    - https://[2400:3200::1]/dns-query
 
   direct-nameserver:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
-    - https://[2400:3200::1]/dns-query
   
   nameserver:
     - https://8.8.8.8/dns-query
@@ -70,7 +68,6 @@ dns:
     "geosite:cn,private":
       - https://dns.alidns.com/dns-query
       - https://doh.pub/dns-query
-      - https://[2400:3200::1]/dns-query
 
 
 proxies: []
