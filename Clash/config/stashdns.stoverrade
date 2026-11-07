@@ -1,0 +1,36 @@
+name: Stash DNS Overrade
+desc: dns防泄漏覆写
+icon: https://th.bing.com/th?id=OIF.5DY2AURkX2XgB%2bHyBJVjzg&r=0&rs=1&pid=ImgDetMain&o=7&rm=3
+
+dns:
+  default-nameserver:
+    - 233.5.5.5
+    - 119.29.29.29
+    - 2400:3200::1
+  proxy-server-nameserver:
+    - 223.5.5.5
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  fake-ip-filter:
+    - geosite:private
+    - geosite:category-ntp
+    - geosite:connectivity-check
+    - +.push.apple.com
+  nameserver-policy:
+    geosite:cn,private:
+      - https://dns.alidns.com/dns-query
+      - https://doh.pub/dns-query
+    +.deepseek.com,+.deepseeksvc.com:
+      - https://8.8.8.8/dns-query#userproxy
+      - https://[2001:4860:4860::8888]/dns-query#userproxy
+      - https://1.1.1.1/dns-query#userproxy
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+  fallback:
+    - https://8.8.8.8/dns-query
+    - tls://1.1.1.1:853
+    - https://[2001:4860:4860::8888]/dns-query
