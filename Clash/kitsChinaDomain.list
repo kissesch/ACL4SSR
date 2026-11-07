@@ -58,7 +58,6 @@ DOMAIN-SUFFIX,down.clashparty.org
 
 # Dictionariez
 DOMAIN-SUFFIX,pnl.dev
-DOMAIN-SUFFIX,*.pnl.dev
 
 # UNM
 DOMAIN,unmdl.kitschen.dpdns.org
