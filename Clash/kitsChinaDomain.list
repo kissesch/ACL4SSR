@@ -65,4 +65,6 @@ DOMAIN,unmdlios.kitschen.dpdns.org
 DOMAIN,pgadmin.creepen.de5.net
 DOMAIN-SUFFIX,pgadmin.creepen.de5.net
 
-# ollama
+# game
+DOMAIN-SUFFIX,chosenonegames.com
+DOMAIN-SUFFIX,centurygame.com
