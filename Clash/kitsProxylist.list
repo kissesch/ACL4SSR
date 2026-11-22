@@ -1,5 +1,8 @@
 # 代理列表
 
-
+# language reactor
 DOMAIN-KEYWORD,languagereactor
 DOMAIN-SUFFIX,languagereactor.com
+
+# edgeone
+DOMAIN,kitssubweb.edgeone.app
