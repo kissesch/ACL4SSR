@@ -1,6 +1,6 @@
 name: Stash DNS Overrade
 desc: dns防泄漏覆写
-icon: https://th.bing.com/th?id=OIF.5DY2AURkX2XgB%2bHyBJVjzg&r=0&rs=1&pid=ImgDetMain&o=7&rm=3
+icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Renzhe.png
 
 dns:
   default-nameserver:
