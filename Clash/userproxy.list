@@ -45,9 +45,6 @@ DOMAIN-SUFFIX,xchina.download
 DOMAIN-SUFFIX,dofavor.store
 IP-CIDR,172.67.153.14,no-resolve
 
-#Tencent edgeone
-DOMAIN-SUFFIX,lfernseher.edgeone.app
-
 # icmp9 vps
 DOMAIN-SUFFIX,icmp9.com
 
