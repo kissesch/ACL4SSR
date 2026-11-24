@@ -6,9 +6,7 @@ DOMAIN-SUFFIX,languagereactor.com
 
 # edgeone
 DOMAIN,kitssubweb.edgeone.app
-DOMAIN-SUFFIX,kitssubweb.edgeone.app
 DOMAIN,lfernseher.edgeone.app
-DOMAIN-KEYWORD,kitssubweb
 
 # myself
 ;DOMAIN-SUFFIX,kitschen.de5.net
