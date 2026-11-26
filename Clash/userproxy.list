@@ -13,10 +13,10 @@ DOMAIN-SUFFIX,xh5.club
 DOMAIN-SUFFIX,manwa.fun
 DOMAIN-SUFFIX,manwa.me
 
-#xhg
+# xhg
 DOMAIN-SUFFIX,xhgap.tea624.com
 
-#肉
+# rou
 DOMAIN-KEYWORD,rou
 DOMAIN-KEYWORD,rouman
 DOMAIN-KEYWORD,roum
@@ -46,3 +46,6 @@ DOMAIN-SUFFIX,dofavor.store
 
 # icmp9 vps
 DOMAIN-SUFFIX,icmp9.com
+
+# myself
+DOMAIN,pgadmin.creepen.de5.net
